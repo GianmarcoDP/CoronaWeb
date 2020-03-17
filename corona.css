@@ -1,6 +1,9 @@
 html{
     background-color: #333333;
 }
+h1{
+    text: white;
+}
 p{
     text: white;
     font-size: 20px;
