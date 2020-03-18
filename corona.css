@@ -15,6 +15,7 @@ p{
     font-size: 20px;
 }
 #summary{
-    border: 5px #a9a9a9 solid;
+    border: 5px solid #a9a9a9;
     background-color: #2f2f2f;
+    padding: 10px;
 }
