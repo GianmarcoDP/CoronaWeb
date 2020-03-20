@@ -1,46 +1,45 @@
 html{
-    background-color: #333333;
+background-color: #333333;
 }
 body{
-    margin: 10px;
-    font-family: 'Roboto', sans-serif;
+margin: 10px;
+font-family: 'Roboto', sans-serif;
 }
 h1, h2{
-    color: #f2f2f2;
+color: #f2f2f2;
 }
 li{
-    color: #f2f2f2;
-    float: left;
-
+color: #f2f2f2;
+float: left;
 }
 p{
-    color: #f2f2f2;
-    font-size: 20px;
-  clear:left;
+color: #f2f2f2;
+font-size: 20px;
+clear:left;
 }
 #summary{
-    border: 2px solid #a9a9a9;
-    background-color: #2f2f2f;
-    padding: 10px;
+border: 2px solid #a9a9a9;
+background-color: #2f2f2f;
+padding: 10px;
 }
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #333333;
-  float:left;
+list-style-type: none;
+margin: 0;
+padding: 0;
+width: 200px;
+background-color: #333333;
+float:left;
 }
 
 li a {
-  display: block;
-  color: #f2f2f2;
-  padding: 8px 16px;
-  text-decoration: none;
+display: block;
+color: #f2f2f2;
+padding: 8px 16px;
+text-decoration: none;
 }
 
 /* Change the link color on hover */
 li a:hover {
-  background-color: #f2f2f2;
-  color: #333333;
+background-color: #f2f2f2;
+color: #333333;
 }
